@@ -9,8 +9,7 @@ CREATE TABLE IF NOT EXISTS hourly_weather (
 CREATE TABLE IF NOT EXISTS daily_weather (
     id INTEGER PRIMARY KEY,
     date TEXT,
-    dailyaveragewindspeed FLOAT,
-    dailypeakwindspeed FLOAT
+    dailyaveragewindspeed FLOAT
 );
 
 CREATE TABLE IF NOT EXISTS taxi (
