@@ -1,0 +1,16 @@
+All packages needed:
+math
+bs4
+re
+requests
+sqlalchemy 
+pandas 
+numpy 
+datetime 
+matplotlib.pyplot 
+matplotlib
+os
+pyarrow.parquet
+scipy.stats 
+keplergl 
+geopandas
