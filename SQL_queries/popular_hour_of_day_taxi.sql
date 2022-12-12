@@ -1,0 +1,5 @@
+
+SELECT hour,COUNT(hour) FROM taxi
+WHERE pickup_datetime BETWEEN "2009-01-01" AND "2015-07-01"
+GROUP BY hour
+ORDER BY COUNT(hour) DESC
