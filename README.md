@@ -7,7 +7,7 @@ UNI: [ys3589, yw3919]
 This project uses the uber, taxi, and weather datasets from year 2009 to 2015 to explore the difference between the Uber and taxi ride, and the impact of the weather.
 
 ## What has implemented?
-This project cleanned and organized the huge and messy datasets and used a SQLite database to store all these cleanned Data with schema.sql file. After selecting data from the database, it utilizaed the pandas to analyze and visualize the data.
+This project cleanned and organized the huge and messy datasets and used a SQLite database to store all these cleanned Data with schema.sql file. After selecting data from the database, it utilized the pandas to analyze and visualize the data.
 
 ## How users can get started with the project
 Update the working directory (os.chdir('working directory')) and put the weather and uber data under the working directory.
